@@ -3,11 +3,11 @@
 
 [rewrite_local]
 #gv系列 (GTV Blued视频 小蓝视频)  =*.pvlzxh.com
-https?:\/\/.*\.dnejkccw\.tips\/.*\/[a-f0-9]+\/[a-f0-9]+\.m3u8 url script-request-header https://raw.githubusercontent.com/Shengxi233/123/main/anye
+https?:\/\/.*\.nlsxvnflc\.tips\/.*\/[a-f0-9]+\/[a-f0-9]+\.m3u8 url script-request-header https://raw.githubusercontent.com/Shengxi233/123/main/anye
 
 
 [mitm]
-hostname = *.dnejkccw.tips
+hostname = *.nlsxvnflc.tips
 *****************/
 
 const $ = new Env("GOGOGOGO");
