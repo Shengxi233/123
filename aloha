@@ -1,20 +1,16 @@
 /**
- * https://p5.ymvfegagd.net
- * 汤头条 
- * 域名请及时提供
- * 搭配Senplayer （弃用）
  * 搭配Aloha 下载视频转到本地并自动转换成MP4
  * TF地址 https://testflight.apple.com/join/bZyNXMAx
 
 [rewrite_local]
 
 #通用
-^https:\/\/[^\/]*\.qxoovv\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?$ url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/lsp/Tangtoutiao.js
+^https:\/\/[^\/]*\.tuplrf\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?$ url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/lsp/Tangtoutiao.js
 ^https:\/\/[^\/]*\.shoknkj\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?$ url script-request-header https://raw.githubusercontent.com/Yu9191/Rewrite/main/lsp/Tangtoutiao.js
 
 [mitm] 
 
-hostname = *.shoknkj.cn, *.qxoovv.cn
+hostname = *.tuplrf.cn, *.qxoovv.cn
 
 
 
