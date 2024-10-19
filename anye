@@ -7,7 +7,7 @@ https?:\/\/.*\.nlsxvnflc\.com\/.*\/[a-f0-9]+\/[a-f0-9]+\.m3u8 url script-request
 
 
 [mitm]
-hostname = *.nlsxvnflc.com
+hostname = *.shjsvkj.cn, *.qxoovv.cn, *.shoknkj.cn, *.shedbgs.cn, *.shnyigs.cn, *.sholfgs.cn, *.shjtqgs.cn, *.shjtpkj.cn, *.hfsudf.cn, *.qohzni.cn, 120play.*.cn, h5play.*.com, long.*.cn 
 *****************/
 
 const $ = new Env("GOGOGOGO");
