@@ -7,7 +7,7 @@
 
 
 [mitm]
-hostname = long.*.cn, *.qxoovv.cn, *.shoknkj.cn, *.shedbgs.cn, *.shnyigs.cn, *.sholfgs.cn, *.shjtqgs.cn, *.shjtpkj.cn, *.hfsudf.cn, *.qohzni.cn, 120play.*.cn, h5play.*.com, *.hjwnwp.cn,long.shjtjgs.cn
+hostname = long.*.cn, *.qxoovv.cn, *.shoknkj.cn, *.shedbgs.cn, *.shnyigs.cn, *.sholfgs.cn, *.shjtqgs.cn, *.shjtpkj.cn, *.hfsudf.cn, *.qohzni.cn, 120play.*.cn, h5play.*.com, *.hjwnwp.cn, *.shjtjgs.cn
 *****************/
 
 const $ = new Env("GOGOGOGO");
