@@ -18,6 +18,6 @@
 #Pornhub中文版:https://841a3.imwlgne.com/af/vkv7
 
 [MITM]
-hostname =  %APPEND%  long.*.cn, *.qxoovv.cn, *.shoknkj.cn, *.shedbgs.cn, *.shnyigs.cn, *.sholfgs.cn, *.shjtqgs.cn, *.shjtpkj.cn, *.hfsudf.cn, *.qohzni.cn, 120play.*.cn, h5play.*.com, h5play.*.cn,*.hjwnwp.cn, *.shjtjgs.cn,*.shnysgs.cn
+hostname = long.*.cn, *.qxoovv.cn, *.shoknkj.cn, *.shedbgs.cn, *.shnyigs.cn, *.sholfgs.cn, *.shjtqgs.cn, *.shjtpkj.cn, *.hfsudf.cn, *.qohzni.cn, 120play.*.cn, h5play.*.com, h5play.*.cn,*.hjwnwp.cn, *.shjtjgs.cn,*.shnysgs.cn
 [Script]
 瑟瑟视频 = type=http-request,pattern=^https:\/\/[^\/]*\..*\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8(\?.*)?,requires-body=0,script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/tangtoutiao.js,script-update-interval=0
