@@ -1,8 +1,8 @@
-/*****************
+/**
+*原作者：baby 的tg频道：https://t.me/Jsforbaby
 *****************
 [rewrite_local]
 ^https:\/\/[^\/]*\..*\.cn\/\w+\/[a-z0-9]{32}\/[a-z0-9]{32}\.m3u8 url script-request-header https://raw.githubusercontent.com/Shengxi233/123/refs/heads/main/yu9191
-
 
 [mitm] 
 
