@@ -11,6 +11,8 @@
 [mitm]
 hostname =*play.*.cn, long.*.cn
 
+*/
+
 const $ = new Env("GOGOGOGO");
 let url = $request.url, headers = $request.headers;
 // yuheng基础上更改保留auth_key
