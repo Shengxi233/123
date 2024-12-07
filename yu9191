@@ -6,7 +6,7 @@
 
 [mitm] 
 
-hostname = 120play.*.cn,h5play.*.com,long.*.cn
+hostname = *play.*.cn, long.*.cn
 *****************/
 
 const $ = new Env("GOGOGOGO");
