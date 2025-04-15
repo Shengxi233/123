@@ -5,7 +5,7 @@
 电报频道：https://t.me/pdx318
 更新日期：2024-03-06
 脚本作者：派大星 @pdx6318
-使用声明：没有利益，只想自己用它得自动记账，怕原作者觉得破解无效就把源文件删除了
+使用声明：没有利益，只想用它得自动记账，怕原作者觉得破解无效就把源文件删除了
 
 解锁终身会员
 
@@ -29,7 +29,7 @@ pdx.data.config.userinfo.vipstart = 2024-03-05;  
 
 pdx.data.config.userinfo.viptype =100;//永久会员
 
-pdx.data.config.userinfo.name = "派大星破解vip";
+pdx.data.config.userinfo.name = "破解vip";
 
 
 
